@@ -27,9 +27,9 @@ Calendar which catalogs the date on which users what to do items
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/terniawilson/ta%20prework%20assignment/todo%20applicat%20demo.mp4' title='Demo' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
