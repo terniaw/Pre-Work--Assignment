@@ -27,7 +27,7 @@ Calendar which catalogs the date on which users what to do items
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/d0x11ra' title='Demo' width='' alt='Todo App Demo' />
+<img src='https://imgur.com/d0x11ra.mp4' title='Demo' width='' alt='Todo App Demo' />
 
 
 
