@@ -27,7 +27,7 @@ Calendar which catalogs the date on which users what to do items
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/terniawilson/ta%20prework%20assignment/todo%20applicat%20demo.mp4' title='Demo' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/d0x11ra' title='Demo' width='' alt='Todo App Demo' />
 
 
 
